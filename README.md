@@ -1,5 +1,5 @@
 # WeatherAppNodejs
-A weather web app made using Node.js, Express and Open Weather Map API used for obtaining temperature of a particular city.
+A weather web app made using **Node.js**, **Express** and **Open Weather Map API** used for obtaining temperature of a particular city.
 
 ## Prerequisites
 * You need to have NodeJS installed in your machine.
