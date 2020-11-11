@@ -11,6 +11,8 @@ A weather web app made using Node.js, Express and Open Weather Map API used for 
 
 ## Set your API Key (Required)
 
+Set your API key inside app.js file
+
 ```
 app.post("/", function(req,res){
 
