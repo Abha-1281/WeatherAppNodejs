@@ -39,4 +39,5 @@ Open the application in browser: http://localhost:3000
 - NodeJS - Javascript runtime environment
 - Express - NodeJS web framework
 - OpenWeatherAPI - Data API
+- EJS - Embedded JavaScript templates
 
