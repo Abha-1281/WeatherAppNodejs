@@ -11,12 +11,12 @@ A weather web app made using Node.js, Express and Open Weather Map API used for 
 
 ## Set your API Key (Required)
 
-```app.post("/", function(req,res){
+`app.post("/", function(req,res){
 
   const apikey = "YOUR API KEY GOES HERE";
   const unit ="metric";
 
-});```
+});`
 
 ### Unit Options(Optional, Kelvin by default) :
 - imperial
