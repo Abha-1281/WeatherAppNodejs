@@ -6,12 +6,12 @@ A weather web app made using Node.js, Express and Open Weather Map API used for 
 * You need to have an API Key. Head on over to OpenWeatherMap website to get an API key.
 
 ## Getting started on local
-* Clone the repository
-* `npm install` to install all required dependencies
+* Clone the repository.
+* `npm install` to install all required dependencies.
 
 ## Set your API Key (Required)
 
-Set your API key inside app.js file
+Set your API key inside app.js file.
 
 ```
 app.post("/", function(req,res){
@@ -33,7 +33,7 @@ Run the following command to run the application in local development server.
 
 `node app.js`
 
-Open the application in browser: http://localhost:3000.
+Open the application in browser: http://localhost:3000
 
 ## Dependencies
 - NodeJS - Javascript runtime environment
